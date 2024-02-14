@@ -56,12 +56,12 @@ button {
     background-color: #641e0d; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
 }
 .bg-green {
-    background-color: #ffffff; /* Nuevo color de fondo verde */
+    background-color: #ffffff;/* Nuevo color de fondo verde */
 }
 
 #messageContainer {
     font-size: 30px;
-    color: #FF0000; /* Color rojo */
+    color: #FF0000; /* Color red */
     font-family: 'YourDesiredFont', sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
     text-shadow: 2px 2px 4px #000; /* Borde simulado */
     animation: pulse 0.5s infinite alternate; /* Animación de palpitación más rápida */
