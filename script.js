@@ -12,7 +12,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
     document.getElementById('gifContainer').style.display = 'none';
     document.getElementById('happyGifContainer').style.display = 'block';
 
-    // Ocultar los botones "Question Yes" y "No "
+    // Ocultar los botones "Pregunta Yes" y "No "
     document.getElementById('question').style.display = 'none';
     document.getElementById('siBtn').style.display = 'none';
     document.body.classList.add('bg-green');
