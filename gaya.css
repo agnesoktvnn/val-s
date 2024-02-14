@@ -12,20 +12,20 @@ body {
 }
 
 #gifContainerImg {
-    width: 60%;
-    height: 60%;
+    width: 50%;
+    height: 50%;
 }
 
 button {
     padding: 10px 20px;
-    font-size: 16px;
-    margin: 10px;
+    font-size: 20px;
+    margin: 15px;
     cursor: pointer;
 }
 #siBtn {
     padding: 10px 20px; 
-    font-size: 16px;
-    margin: 10px;
+    font-size: 20px;
+    margin: 15px;
     cursor: pointer;
     background-color: #009705; /* Verde */
     color: white;
@@ -35,8 +35,8 @@ button {
 
 #noBtn {
     padding: 10px 20px;
-    font-size: 16px;
-    margin: 10px;
+    font-size: 20px;
+    margin: 15px;
     cursor: pointer;
     background-color: #FF5733; /* Rojo */
     color: white;
@@ -44,7 +44,7 @@ button {
     border-radius: 10px; /* Esquinas redondeadas */
 }
 #noBtn span {
-    font-size: 18px;
+    font-size: 20px;
     color: #fcf4f4; /* Cambia el color del texto según tus preferencias */
     /* Otras propiedades de estilo aquí */
 }
